@@ -1,0 +1,19 @@
+{
+  "domain": "www.vinted.co.uk",
+  "searches": [
+    {
+      "query": "levi's 501",
+      "max_price": 25,
+      "min_discount": 0.35,
+      "sizes": ["W30", "W32"],
+      "exclude_words": ["kids", "children", "damaged", "faulty"]
+    },
+    {
+      "query": "nike tech fleece",
+      "max_price": 30,
+      "min_discount": 0.40,
+      "sizes": [],
+      "exclude_words": ["kids", "boys", "girls"]
+    }
+  ]
+}
