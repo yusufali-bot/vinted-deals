@@ -14,11 +14,6 @@
       "min_discount": 0.40,
       "sizes": [],
       "exclude_words": ["kids", "boys", "girls"]
-    },
-    {
-      "query": "neewer",
-      "max_price": 130,
-      "min_discount": 0.40,
     }
   ]
 }
