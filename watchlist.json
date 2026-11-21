@@ -3,14 +3,14 @@
   "searches": [
     {
       "query": "levi's 501",
-      "max_price": 125,
+      "max_price": 1125,
       "min_discount": 0.35,
       "sizes": ["W30", "W32"],
       "exclude_words": ["kids", "children", "damaged", "faulty"]
     },
     {
       "query": "nike tech fleece",
-      "max_price": 130,
+      "max_price": 1130,
       "min_discount": 0.40,
       "sizes": [],
       "exclude_words": ["kids", "boys", "girls"]
